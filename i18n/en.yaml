@@ -1,23 +1,23 @@
 readMore:
-  other: Read More
+  other: Lire plus
 readingTime:
-  other: '{{ .ReadingTime }} min read'
+  other: '{{ .ReadingTime }} min'
 toc:
-  other: Table of Contents
+  other: Sommaire
 seriesOfPosts:
-  other: Series of Posts
+  other: Serie des Posts
 previous:
-  other: Previous
+  other: Précédent
 next:
-  other: Next
+  other: Suivant
 seeAlso:
-  other: See Also
+  other: Voir aussi
 recent:
-  other: Recent
+  other: Récent
 onThisPage:
-  other: On This Page
+  other: Sur cette page
 editThisPage:
-  other: Edit this page
+  other: Modifier cette page
 light:
   other: Light
 dark:
